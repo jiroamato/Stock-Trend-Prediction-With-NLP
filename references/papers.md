@@ -1,0 +1,2 @@
+[Financial Phrasebank Paper](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.23062)
+[Stock trend prediction using sentiment analysis paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10403218/#ref-33)

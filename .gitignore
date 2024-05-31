@@ -1,0 +1,8 @@
+# Ignoring all .txt files
+*.txt
+
+# Ignoring all .csv files
+*.csv
+
+# Ignoring all .pdf files
+*.pdf
