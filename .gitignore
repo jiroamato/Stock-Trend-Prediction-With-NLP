@@ -6,3 +6,6 @@
 
 # Ignoring all .pdf files
 *.pdf
+
+# Ignoring /..ipynb_checkpoints
+.ipynb_checkpoints/
