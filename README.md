@@ -68,7 +68,19 @@ Contains **6,038** observations.
 
 
 ## **Model**
-As far as vectorization models of text-data, **Bag of Words** is used as an initial benchmark in this first-pass. **TF-IDF** was also explored in this dataset. There will be two classification models that will be required to model sentiment analysis and stock trends (coming soon).
+As far as vectorization models of text-data, **Bag of Words** is used as an initial benchmark in this first-pass. **TF-IDF** was also explored in this dataset. There will be two models that will be required to model sentiment analysis and stock trends.
+
+**Sentiment Analysis Modelling**:
+- Base Models:
+	- Logistic Regression
+	- Decision Tree
+	- K-Nearest Neighbor
+	- Naïve Bayes
+
+**Time Series Modelling**:
+- Base Models:
+	- AR
+	- ARIMA
 
 ## **Developer**
 Jiro Amato
