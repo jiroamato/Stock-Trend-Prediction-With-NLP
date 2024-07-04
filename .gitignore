@@ -1,5 +1,5 @@
 # Ignoring all .txt files
-*.txt
+Sentences*.txt
 
 # Ignoring all .csv files
 *.csv
