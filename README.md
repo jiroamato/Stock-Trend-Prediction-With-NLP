@@ -80,6 +80,7 @@ As far as vectorization models of text-data, **Bag of Words** is used as an init
 **Time Series Modelling**:
 - Base Models:
 	- AR
+	- MA
 	- ARIMA
 
 ## **Developer**
