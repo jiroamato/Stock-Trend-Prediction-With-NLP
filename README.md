@@ -16,7 +16,7 @@ The importance of sentiment analysis shows itself in the following:
 To give you a perspective of how the market is, the Canadian Pension Plan's assets under management is around $590.8 billion. With better market intel, we can reduce the risk of our nesteggs.
 
 Here is a flowchart of the proposed model:<br>
-![image](/docs/figures/flowchart.jpg)
+![image](/docs/figures/wireframe.svg)
 
 
 ## **Table Of Contents**
