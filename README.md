@@ -68,7 +68,7 @@ Contains **6,038** observations.
 
 
 ## **Model**
-As far as vectorization models of text-data, **Bag of Words** is used as an initial benchmark in this first-pass. **TF-IDF** was also explored in this dataset. There will be two models that will be required to model sentiment analysis and stock trends.
+As far as vectorization models of text-data, **Bag of Words**, ***TF-IDF***, ***Word2Vec*** were used as an initial benchmark.
 
 **Sentiment Analysis Modelling**:
 - Base Models:
@@ -81,7 +81,9 @@ As far as vectorization models of text-data, **Bag of Words** is used as an init
 - Base Models:
 	- AR
 	- MA
+	- ARMA
 	- ARIMA
+	- SARIMA
 
 ## **Developer**
 Jiro Amato
